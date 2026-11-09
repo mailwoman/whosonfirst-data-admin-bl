@@ -55,8 +55,7 @@
     "wof:belongsto":[
         102191575,
         85632199,
-        85633147,
-        85669283
+        85633147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +80,7 @@
     "wof:id":421190409,
     "wof:lastmodified":1566615559,
     "wof:name":"Lurin",
-    "wof:parent_id":85669283,
+    "wof:parent_id":85632199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bl",
     "wof:superseded_by":[],

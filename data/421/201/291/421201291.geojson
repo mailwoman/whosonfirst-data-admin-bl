@@ -258,7 +258,6 @@
     "wd:wordcount":64,
     "wof:belongsto":[
         85632199,
-        85669283,
         102191575,
         136253037
     ],
@@ -291,7 +290,7 @@
     "wof:id":421201291,
     "wof:lastmodified":1690858665,
     "wof:name":"Marigot",
-    "wof:parent_id":85669283,
+    "wof:parent_id":85632199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bl",
     "wof:superseded_by":[],
